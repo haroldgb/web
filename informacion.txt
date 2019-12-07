@@ -1,0 +1,9 @@
+usuario: harold	
+contraseña: romerogb13
+maquina virtual : MuebleriaWeb
+
+integrantes del grupo: 
+harold romero
+felipe vasquez 
+jaime alvarez
+
